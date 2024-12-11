@@ -1,0 +1,4 @@
+node_modules/
+__pycache__/
+*.pyc
+bot/utils/db_apis/data
